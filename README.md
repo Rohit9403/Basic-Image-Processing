@@ -8,12 +8,12 @@ This Projects contains basic Image processing using OpenCV
 ![alt text](https://github.com/Rohit9403/Basic-Image-Processing/blob/master/Images/o2.png)
 
 ## Resizing images
-> Resizing images
-> Resizing images while maintaining aspect ratio
-> Resizing within imutils
+- Resizing images
+- Resizing images while maintaining aspect ratio
+- Resizing within imutils
 
 ## Rotating an image
-> rotation using imultis
+- rotation using imultis
 ![alt text](https://github.com/Rohit9403/Basic-Image-Processing/blob/master/Images/o3.png)
 
 ## Smoothing an image
@@ -21,9 +21,9 @@ In many image processing pipelines, we must blur an image to reduce high-frequen
 ![alt text](https://github.com/Rohit9403/Basic-Image-Processing/blob/master/Images/o4.png)
 
 ## Drawing on an image
-> Draw a rectangle
-> Draw a circle
-> Draw a line
+- Draw a rectangle
+- Draw a circle
+- Draw a line
 ![alt text](https://github.com/Rohit9403/Basic-Image-Processing/blob/master/Images/o5.png)
 
 ## Overlay text on an image for display purposes
