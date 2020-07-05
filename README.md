@@ -14,6 +14,7 @@ This Projects contains basic Image processing using OpenCV
 
 ## Rotating an image
 - rotation using imultis
+
 ![alt text](https://github.com/Rohit9403/Basic-Image-Processing/blob/master/Images/o3.png)
 
 ## Smoothing an image
