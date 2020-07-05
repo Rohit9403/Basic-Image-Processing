@@ -25,6 +25,7 @@ In many image processing pipelines, we must blur an image to reduce high-frequen
 - Draw a rectangle
 - Draw a circle
 - Draw a line
+
 ![alt text](https://github.com/Rohit9403/Basic-Image-Processing/blob/master/Images/o5.png)
 
 ## Overlay text on an image for display purposes
